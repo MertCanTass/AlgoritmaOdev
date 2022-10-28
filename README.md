@@ -1,0 +1,2 @@
+# AlgoritmaOdev
+ Algoritma Odevleri
